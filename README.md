@@ -28,5 +28,5 @@ Les scripts pythons appellant les modèles et enregistrant les données sont :
 
 
   Le fichier Book_of_abstracts.pdf contient l'abstract étendu de 4 pages que j'avais fait pour présenter mes résultats à l'International Workshop on Lot-Sizing (IWLS 2023) (page 65).
-  Le fichier rapport contient mon rapport de stage complet (environ 4O pages).
+  Le fichier rapport contient mon rapport de stage complet (environ 40 pages).
   
