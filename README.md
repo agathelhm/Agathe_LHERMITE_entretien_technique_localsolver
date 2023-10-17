@@ -7,7 +7,7 @@ Le code est en Python et fait appel au solveur CPLEX.
 
 Importe le repo : 
 ```ruby
-git clone 
+git clone https://github.com/agathelhm/Agathe_LHERMITE_entretien_technique_localsolver.git
 ```
 
 Packages utilisés : 
