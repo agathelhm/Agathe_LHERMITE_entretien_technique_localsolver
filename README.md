@@ -1,5 +1,5 @@
 # Agathe_LHERMITE_entretien_technique_localsolver
-Travaux fait durant mon stage de recherche (M1)
+Travaux fait durant mon stage de recherche (M1) d'avril à juillet 2023.
 
 Mon stage de recherche portait sur l'étude du problème One Warehouse Multi Retailer (OWMR). C'est un problème de lot-sizing à deux niveaux. Mes travaux avaient pour but de formuler des nouvelles contraintes pour les commandes à l'entrepôt et de comparer les différentes formulations obtenues.
 
@@ -24,6 +24,6 @@ Contient quatre dossiers :
 Les scripts pythons appellant les modèles et enregistrant les données sont :
 - pour Run_multiprocessing, multiprocess_test.py
 - pour Heuristic, multiprocess_random_periods.py
- Ces fichiers enregistrent les informations dans les sous-dossiers results.
+ Ces fichiers enregistrent les informations de la resolution des problèmes dans les sous-dossiers results.
   
   
