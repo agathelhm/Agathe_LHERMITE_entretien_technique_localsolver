@@ -5,6 +5,11 @@ Mon stage de recherche portait sur l'étude du problème One Warehouse Multi Ret
 
 Le code est en Python et fait appel au solveur CPLEX.
 
+Importe le repo : 
+```ruby
+git clone 
+```
+
 Packages utilisés : 
 ```ruby
 pip install -r requirements.txt
