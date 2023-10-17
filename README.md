@@ -1,5 +1,5 @@
 # Agathe_LHERMITE_entretien_technique_localsolver
-Travaux fait durant mon stage de recherche (M1) d'avril à juillet 2023.
+Travaux effectués durant mon stage de recherche (M1) d'avril à juillet 2023.
 
 Mon stage de recherche portait sur l'étude du problème One Warehouse Multi Retailer (OWMR). C'est un problème de lot-sizing à deux niveaux. Mes travaux avaient pour but de formuler des nouvelles contraintes pour les commandes à l'entrepôt et de comparer les différentes formulations obtenues.
 
