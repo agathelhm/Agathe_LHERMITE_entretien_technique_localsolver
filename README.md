@@ -25,5 +25,8 @@ Les scripts pythons appellant les modèles et enregistrant les données sont :
 - pour Run_multiprocessing, multiprocess_test.py
 - pour Heuristic, multiprocess_random_periods.py
  Ces fichiers enregistrent les informations de la resolution des problèmes dans les sous-dossiers results.
-  
+
+
+  Le fichier Book_of_abstracts.pdf contient l'abstract étendu de 4 pages que j'avais fait pour présenter mes résultats à l'International Workshop on Lot-Sizing (IWLS 2023) (page 65).
+  Le fichier rapport contient mon rapport de stage complet (environ 4O pages).
   
