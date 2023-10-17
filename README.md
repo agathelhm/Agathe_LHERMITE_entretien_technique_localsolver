@@ -5,6 +5,11 @@ Mon stage de recherche portait sur l'étude du problème One Warehouse Multi Ret
 
 Le code est en Python et fait appel au solveur CPLEX.
 
+Packages utilisés : 
+```ruby
+pip install -r requirements.txt
+```
+
 Contient quatre dossiers :
 - data contient les instances utilisées (10 instances sont déjà stockées)
 - Generates_instances permet de génerer de nouvelles instances, à la fois sous un format .dat et à partir de ce format, sous un format .npy
