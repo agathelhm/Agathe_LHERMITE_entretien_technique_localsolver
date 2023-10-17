@@ -12,6 +12,6 @@ Contient quatre dossiers :
 Les scripts pythons appellant les modèles et enregistrant les données sont :
 - pour Run_multiprocessing, multiprocess_test.py
 - pour Heuristic, multiprocess_random_periods.py
-
+ Ces fichiers enregistrent les informations dans les sous-dossiers results.
   
   
